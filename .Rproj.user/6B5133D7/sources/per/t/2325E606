@@ -3,7 +3,7 @@
     "path": "C:/Users/10959/Desktop/yichenl61.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "3061039916",
+    "hash": "575851448",
     "contents": "",
     "dirty": false,
     "created": 1678251728907.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,159",
-        "scrollLine": "5"
+        "cursorPosition": "14,3",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678251763,
+    "lastKnownWriteTime": 1680416806,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678251763340,
+    "last_content_update": 1680416806108,
     "read_only": false,
     "read_only_alternatives": []
 }

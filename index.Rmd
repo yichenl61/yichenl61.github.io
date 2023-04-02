@@ -6,7 +6,7 @@ links:
     url: "https://www.linkedin.com/in/yichen-liu-2059431a7/"
   - label: GitHub
     url: "https://github.com/yichenl61"
-  - label: CV
+  - label: CV(Includes Project Links)
     url: "https://yichenl.georgetown.domains/Yichen_Liu_ds.pdf"
   - label: Email
     url: "mailto:ycliuleo0601@gmail.com"
@@ -27,3 +27,4 @@ M.S. in Data Science | August 2022 - Expected May 2024
 **Virginia Tech** | Blacksburg, VA
 
 B.S. in Computer Engineering | August 2018 - May 2022
+
