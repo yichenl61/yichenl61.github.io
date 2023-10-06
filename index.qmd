@@ -1,0 +1,19 @@
+---
+title: "Yichen Liu"
+# subtitle: ""
+image: Yichen.jpg
+
+about:
+  template: jolla
+  links:
+    # - icon: twitter
+    #   text: ivelasq3
+    #   href: https://twitter.com/ivelasq3
+    - icon: linkedin
+      text: Yichen Liu
+      href: https://www.linkedin.com/in/yichen-liu-2059431a7/
+    - icon: github
+      text: yichenl61
+      href: https://github.com/yichenl61
+---
+

@@ -1,0 +1,22 @@
+---
+title: "Hi there!"
+listing:
+  id: intro-listings
+  image-align: right
+  contents: intro
+  sort: "title asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+My name is Yichen Liu. I'm currently a Master student in Data Science at Georgetown University. I hold a Bachelor of Science degree in Computer Engineering from Virginia Tech, where he focused in Control Robotics & Autonomy and Networking & Cybersecurity.
+
+
+------------------------------------------------------------------------
+
+::: {#intro-listings}
+:::
